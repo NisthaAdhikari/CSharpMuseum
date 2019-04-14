@@ -1,0 +1,6 @@
+CardNo,Name,Email,ContactNo,Occupation,Date,Day,InTime,OutTime,Duration
+1695907,Tom,t@gmail.com,9876543,Actor,1/30/2019,Wednesday,12:53:08 AM,12:53:49 AM,0.68
+1660793,Doggo,d@gmail.com,9765432,Doctor,1/30/2019,Wednesday,12:56:12 AM,12:56:55 AM,0.72
+1695907,Tom,t@gmail.com,9876543,Actor,1/30/2019,Wednesday,1:14:21 AM,1:15:10 AM,0.82
+1695907,Tom,t@gmail.com,9876543,Actor,1/30/2019,Wednesday,1:11:24 AM,1:15:13 AM,3.82
+1640377,n,n,n,n,1/30/2019,Wednesday,10:23:18 AM,10:23:23 AM,0.08
